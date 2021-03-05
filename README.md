@@ -5,6 +5,10 @@ Hi, I'm [David](https://github.com/Dazt5/) 👋 Computer Science student and dev
 ![focus](https://img.shields.io/badge/focus-backend-red)
 ![living](https://img.shields.io/badge/Living-Venezuela-blue)
 
+##Active Repositories
+[Rest Api To my Degree Project](https://github.com/Dazt5/InfinitySolutionsAPI)
+[RestApi And WebClient To movie_website](https://github.com/Dazt5/movie-website)
+
 ### Follow me
 [![alt text][1.1]][1]  
 
