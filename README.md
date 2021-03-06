@@ -7,9 +7,9 @@ Hi, I'm [David](https://github.com/Dazt5/) 👋 Computer Science student and dev
 
 ## Active Repositories
 
-[Rest Api To my Degree Project](https://github.com/Dazt5/InfinitySolutionsAPI)
+[API REST To my Degree Project](https://github.com/Dazt5/InfinitySolutionsAPI)
 
-[RestApi And WebClient To movie_website](https://github.com/Dazt5/movie-website)
+[API REST And WebClient To movie_website](https://github.com/Dazt5/movie-website)
 
 ### Follow me
 [![alt text][1.1]][1]  
