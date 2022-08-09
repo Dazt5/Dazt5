@@ -1,7 +1,7 @@
 ### Hello World
-Hi, I'm [David](https://github.com/Dazt5/) 👋 Computer Science student and Backend Java Developer at Valid Colombia.
+Hi, I'm [David](https://github.com/Dazt5/) 👋 Computer Science Engineer and Backend Java Developer at Globant Colombia.
 
-![age](https://img.shields.io/badge/Age-20-green)
+![age](https://img.shields.io/badge/Age-21-green)
 ![focus](https://img.shields.io/badge/focus-backend-red)
 
 
