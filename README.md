@@ -9,6 +9,6 @@ Hi, I'm [David](https://github.com/Dazt5/) 👋 Computer Science Engineer and Ba
 
 [1.1]: https://camo.githubusercontent.com/1915c75505092958fe88ba3f6ed1f45c20b5c4440bed02c27cb45f741ea5b632/687474703a2f2f6661726d362e7374617469632e666c69636b722e636f6d2f353133362f353432313235393132355f656130366436373637355f6f2e706e67
 
-[1]:https://twitter.com/_Dazt
+[1]:https://x.com/_Dazt
 
 #### When you are truly interested in something, you never stop learning. 
