@@ -4,13 +4,6 @@ Hi, I'm [David](https://github.com/Dazt5/) 👋 Computer Science Engineer and Ba
 ![age](https://img.shields.io/badge/Age-21-green)
 ![focus](https://img.shields.io/badge/focus-backend-red)
 
-
-## Active Repositories
-
-[API REST To my Degree Project](https://github.com/Dazt5/InfinitySolutionsAPI)
-
-[WEB CLIENT To my Degree Project](https://github.com/Dazt5/InfinitySolutions)
-
 ### Follow me
 [![alt text][1.1]][1]  
 
